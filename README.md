@@ -1,7 +1,3 @@
-![photo_2021-06-24_21-00-43 1](https://user-images.githubusercontent.com/55324828/123301828-823dc000-d535-11eb-9a31-9dd6d7e661d7.png)
-![photo_2021-06-24_21-00-44 (2) 1](https://user-images.githubusercontent.com/55324828/123301840-84a01a00-d535-11eb-8c88-d05e7a41b5ac.png)
-![photo_2021-06-24_21-00-44 1](https://user-images.githubusercontent.com/55324828/123301847-87027400-d535-11eb-8d1c-962a7948aff6.png)
-![photo_2021-06-24_21-00-45 1](https://user-images.githubusercontent.com/55324828/123301859-89fd6480-d535-11eb-8984-3722dd4e3e86.png)
 
 <!-- PROJECT LOGO -->
 <p>
